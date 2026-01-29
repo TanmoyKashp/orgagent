@@ -1,0 +1,18 @@
+# python
+venv/
+__pycache__/
+*.pyc
+
+# local databases
+vectordb/
+chroma.sqlite3
+
+# user uploads
+uploads/
+logs/
+
+# mac
+.DS_Store
+
+# streamlit
+.streamlit/
