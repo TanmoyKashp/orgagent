@@ -16,3 +16,8 @@ logs/
 
 # streamlit
 .streamlit/
+
+app/
+Ingest.py
+rag.py
+.env
