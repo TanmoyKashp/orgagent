@@ -1,8 +1,11 @@
+**Development Log** : https://docs.google.com/document/d/1wvHRMUD---UzLe-KYKYgBOkAHmzGuqjlIq63jBLAzkA/edit?usp=sharing
+
 # OrgAgent
 
 **OrgAgent** is a high-performance, cloud-integrated AI assistant designed to provide accurate answers based on your organization's document database. 
 
 Formerly a local-only project, OrgAgent now leverages infrastructure for superior speed, scalability, and model variety.
+
 
 ### 🛠 Built With
 * **OpenRouter**: Access to top-tier models like DeepSeek-R1, GPT-4o, and Claude 3.5.
