@@ -21,3 +21,8 @@ app/
 Ingest.py
 rag.py
 .env
+
+venv/
+uploads/
+__pycache__/
+.env
